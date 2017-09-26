@@ -1,0 +1,10 @@
+﻿  CreateDevice.cpp
+d:\vs_compile\createdevice\createdevice.cpp(45): warning C4100: 'lpCmdLine': 참조되지 않은 정식 매개 변수입니다.
+d:\vs_compile\createdevice\createdevice.cpp(44): warning C4100: 'hPrevInstance': 참조되지 않은 정식 매개 변수입니다.
+d:\vs_compile\createdevice\createdevice.cpp(198): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\vs_compile\createdevice\createdevice.cpp(234): warning C4238: 비표준 확장이 사용됨: 클래스 rvalue를 lvalue로 사용했습니다.
+d:\vs_compile\createdevice\createdevice.cpp(233): warning C4238: 비표준 확장이 사용됨: 클래스 rvalue를 lvalue로 사용했습니다.
+d:\vs_compile\createdevice\createdevice.cpp(232): warning C4238: 비표준 확장이 사용됨: 클래스 rvalue를 lvalue로 사용했습니다.
+d:\vs_compile\createdevice\createdevice.cpp(288): warning C4238: 비표준 확장이 사용됨: 클래스 rvalue를 lvalue로 사용했습니다.
+  CreateDevice_2010.vcxproj -> D:\VS_Compile\CreateDevice\Debug\CreateDevice.exe
+  CreateDevice_2010.vcxproj -> D:\VS_Compile\CreateDevice\Debug\CreateDevice.pdb (Full PDB)
